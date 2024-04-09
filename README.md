@@ -97,8 +97,8 @@ plt.title("Laplacian Edge Detector")
 plt.axis("off")
 plt.show()
 ```
-CANNY EDGE DETECTOR
-
+### CANNY EDGE DETECTOR
+```
 canny=cv2.Canny(gray,120,150)
 plt.figure(figsize=(8,8))
 plt.subplot(1,2,1)
@@ -110,6 +110,7 @@ plt.imshow(canny)
 plt.title("Canny Edge Detector")
 plt.axis("off")
 plt.show()
+```
 
 ## Output:
 SOBEL EDGE DETECTOR
