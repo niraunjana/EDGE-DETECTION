@@ -117,17 +117,22 @@ plt.show()
 SOBEL EDGE DETECTOR
 
 Sobel X Axis Edge Detection
+
 ![image](https://github.com/niraunjana/EDGE-DETECTION/assets/119395610/fbb10a9f-da2b-4556-adf3-f974017d3818)
 
 
 Sobel Y Sxis Edge Detection
+
 ![image](https://github.com/niraunjana/EDGE-DETECTION/assets/119395610/15d96408-2806-4c32-ad61-3464a61afc78)
 
+
 Sobel XY Sxis Edge Detection
+
 ![image](https://github.com/niraunjana/EDGE-DETECTION/assets/119395610/d6ef2ce5-fcab-4560-aba2-a0c536848f00)
 
 
 LAPLACIAN EDGE DETECTOR
+
 ![image](https://github.com/niraunjana/EDGE-DETECTION/assets/119395610/41f721a0-c9d0-4d65-83dd-1f18b0e95553)
 
 
