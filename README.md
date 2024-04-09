@@ -128,10 +128,12 @@ Sobel XY Sxis Edge Detection
 
 
 LAPLACIAN EDGE DETECTOR
-![image](https://github.com/niraunjana/EDGE-DETECTION/assets/119395610/29f82209-8487-46b8-885e-5d72c261947d)
+![image](https://github.com/niraunjana/EDGE-DETECTION/assets/119395610/41f721a0-c9d0-4d65-83dd-1f18b0e95553)
+
 
 CANNY EDGE DETECTOR
-![image](https://github.com/niraunjana/EDGE-DETECTION/assets/119395610/f24147aa-c138-4bc1-9e13-c4116ed00d60)
+![image](https://github.com/niraunjana/EDGE-DETECTION/assets/119395610/669bcc45-a395-4cf2-a784-04264bc2b377)
+
 
 ## Result:
 Thus the edges are detected using Sobel, Laplacian, and Canny edge detectors.
