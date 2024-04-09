@@ -131,7 +131,9 @@ LAPLACIAN EDGE DETECTOR
 ![image](https://github.com/niraunjana/EDGE-DETECTION/assets/119395610/41f721a0-c9d0-4d65-83dd-1f18b0e95553)
 
 
+
 CANNY EDGE DETECTOR
+
 ![image](https://github.com/niraunjana/EDGE-DETECTION/assets/119395610/669bcc45-a395-4cf2-a784-04264bc2b377)
 
 
