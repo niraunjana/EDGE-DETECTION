@@ -124,7 +124,7 @@ Sobel Y Sxis Edge Detection
 ![image](https://github.com/niraunjana/EDGE-DETECTION/assets/119395610/15d96408-2806-4c32-ad61-3464a61afc78)
 
 Sobel XY Sxis Edge Detection
-![image](https://github.com/niraunjana/EDGE-DETECTION/assets/119395610/8f3dd272-c1de-48b6-9564-8a0dcf40c98a)
+![image](https://github.com/niraunjana/EDGE-DETECTION/assets/119395610/d6ef2ce5-fcab-4560-aba2-a0c536848f00)
 
 
 LAPLACIAN EDGE DETECTOR
