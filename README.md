@@ -32,7 +32,7 @@ Reg.No. 212222230096
 import cv2
 import matplotlib.pyplot as plt
 
-img=cv2.imread("butterfly.jpg",0)
+img=cv2.imread("fox.jpg",0)
 gray=cv2.cvtColor(img,cv2.COLOR_GRAY2RGB)
 gray = cv2.GaussianBlur(gray,(3,3),0)
 ```
@@ -113,21 +113,25 @@ plt.show()
 ```
 
 ## Output:
+
 SOBEL EDGE DETECTOR
+
 Sobel X Axis Edge Detection
+![image](https://github.com/niraunjana/EDGE-DETECTION/assets/119395610/fbb10a9f-da2b-4556-adf3-f974017d3818)
 
-image
+
 Sobel Y Sxis Edge Detection
+![image](https://github.com/niraunjana/EDGE-DETECTION/assets/119395610/15d96408-2806-4c32-ad61-3464a61afc78)
 
-image
 Sobel XY Sxis Edge Detection
+![image](https://github.com/niraunjana/EDGE-DETECTION/assets/119395610/8f3dd272-c1de-48b6-9564-8a0dcf40c98a)
 
-image
+
 LAPLACIAN EDGE DETECTOR
+![image](https://github.com/niraunjana/EDGE-DETECTION/assets/119395610/29f82209-8487-46b8-885e-5d72c261947d)
 
-image
 CANNY EDGE DETECTOR
+![image](https://github.com/niraunjana/EDGE-DETECTION/assets/119395610/f24147aa-c138-4bc1-9e13-c4116ed00d60)
 
-image
 ## Result:
 Thus the edges are detected using Sobel, Laplacian, and Canny edge detectors.
